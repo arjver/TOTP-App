@@ -2,7 +2,8 @@
 
 <!-- ### Note: Progress will be slow, I'm waiting to see how common WebAuthn becomes before comitting much more time into this. -->
 ---
-<img width=200 src="https://github.com/blobbybilb/TOTP-App/assets/58201828/4ca7f46e-7a1d-4163-9c8c-a8acc3432113" alt="hello"></img>
+<img width=200 src="https://github.com/blobbybilb/TOTP-App/assets/58201828/4ca7f46e-7a1d-4163-9c8c-a8acc3432113" alt="screenshot 1"></img>
+<img width=400 src="https://github.com/user-attachments/assets/ca2f4669-60a7-4714-b490-dfb13483d511" alt="screenshot 2"></img>
 
 # TOTP[App]
 ### Open Source TOTP authenticator with E2EE self-hostable sync
