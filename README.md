@@ -1,3 +1,5 @@
+#### Update: Since I started working on this, [Ente Auth](https://github.com/ente-io/ente/tree/main/auth) has emerged as an app with a similar goal and with much more development resources behind it. Bitwarden also released their own authenticator app. Both are significantly more robust alternatives, so I'm pausing development on this.
+
 <!-- #### Note: progress will be slow for some time, as I'm busy with other stuff, and I don't need it right now. Also, I'd prefer to wait and see how common WebAuthn becomes before committing more time into this, just in case. -->
 
 <!-- ### Note: Progress will be slow, I'm waiting to see how common WebAuthn becomes before comitting much more time into this. -->
